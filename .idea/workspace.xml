@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="126abf1a-71a7-439e-8271-eaf99fbc1b93" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +49,22 @@
       <workItem from="1604777142890" duration="2998000" />
       <workItem from="1604790256964" duration="147000" />
       <workItem from="1604838670991" duration="3337000" />
-      <workItem from="1604888441547" duration="153000" />
+      <workItem from="1604888441547" duration="434000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
